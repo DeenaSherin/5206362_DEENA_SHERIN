@@ -2,3 +2,4 @@ This is a text message from main branch.
 
 This is a text message from BranchOne branch.
 
+This is a text message from BranchOne branch which is going to be merge in main
